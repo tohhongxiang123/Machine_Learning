@@ -1,3 +1,2 @@
-# Simple Linear Regression
+Collecting my programs related to machine learning
 
-Implementation of simple linear regression in python
